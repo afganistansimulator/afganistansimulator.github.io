@@ -1,0 +1,23 @@
+h1, h2, li {
+    font-family: Impact;
+    border: solid 5px #b4ac7a;
+    border-radius: 20px;
+    margin: 5px;
+    background-color: #fff2a4;
+}
+
+h1, h2 {
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    border-radius: 30px;
+    border: dashed 7px #b4ac7a;
+}
+
+body {
+    background-color: #d8ce90;
+}
